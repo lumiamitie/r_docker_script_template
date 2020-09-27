@@ -5,7 +5,7 @@ R과 Docker를 사용해 배치 스크립트를 작성하기 위한 템플릿 �
 - 스크립트를 동작시키기 위해 필요한 환경을 Docker로 구성한다 (R 및 라이브러리)
 - `modules` 라이브러리를 통해 스크립트를 모듈화한다
 
-자세한 설명은 [블로그 포스팅](https://lumiamitie.github.io/r/dockerizing-r-batch-script/) 에서 확인!
+자세한 설명은 [블로그 포스팅](https://lumiamitie.github.io/r/dockerizing-r-batch-script/?utm_source=github) 에서 확인!
 
 ## How to use
 
