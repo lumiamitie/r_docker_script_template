@@ -1,0 +1,10 @@
+version: '3.5'
+services:
+  svc_r_batch:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: r_batch
+    stdin_open: true
+    tty: true
+    command: r run.r
